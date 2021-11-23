@@ -1,0 +1,5 @@
+Follow this link to download the data and stimulation:
+	1. Data for training: in "traindata", bring this folder into same place with the code.
+	2. Stimulation: Unity, bring all into same place with the code
+	3. Library: all the library for Python to run the stimulation successfully. Copy all and paste to "C:\Users\DELL\AppData\Local\Programs\Python\Python37"
+LINK: https://drive.google.com/drive/folders/1_oEMeRSIGBm-Ng9df5wxoEOK2-rAGmII?usp=sharing
